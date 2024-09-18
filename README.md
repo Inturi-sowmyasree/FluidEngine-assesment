@@ -16,7 +16,7 @@ This is a React application that replicates key features of Squarespace's Fluid 
 
 This project demonstrates a web-based page builder, similar to Squarespace’s Fluid Engine, with drag-and-drop support for rearranging and moving elements across containers. The interface is fully responsive and provides an optimized experience for both desktop and mobile devices.
 
-A live demo of this project is available at: **[Live Demo Link](#)**
+A live demo of this project is available at: **[[Live Demo Link](https://assessment-fluid-clone.netlify.app/)](#)**
 
 ## Features
 
